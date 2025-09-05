@@ -24,15 +24,15 @@ This project provides a Python-based exploratory data analysis (EDA) tool for an
  - Excellent = 7
 
 ## Technologies Used
- 1.Python 3.x
- 2.Pandas
- 3.NumPy
- 4.Matplotlib
- 5.Seaborn
+ 1. Python 3.x
+ 2. Pandas
+ 3. NumPy
+ 4. Matplotlib
+ 5. Seaborn
 
 ## Requirements:
 Save both the python file and csv file at the same location before running the python file.
-Install dependencies before running:
+ - Install dependencies before running:
 
 ```bash
 pip install numpy pandas matplotlib seaborn
