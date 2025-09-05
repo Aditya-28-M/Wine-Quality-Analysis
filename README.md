@@ -3,25 +3,25 @@ This project provides a Python-based exploratory data analysis (EDA) tool for an
 
 ## Features
 1. Basic Exploration
- -View first/last N rows
- -Show dataset shape, info, and description
- -Data Cleaning
- -Remove null values
- -Detect and remove outliers (IQR method)
+ - View first/last N rows
+ - Show dataset shape, info, and description
+ - Data Cleaning
+ - Remove null values
+ - Detect and remove outliers (IQR method)
 
 2. Visualization (Seaborn + Matplotlib)
- -Histogram
- -Boxplot
- -Lineplot
- -Scatterplot
- -Pairplot
- -Heatmap (correlation)
+ - Histogram
+ - Boxplot
+ - Lineplot
+ - Scatterplot
+ - Pairplot
+ - Heatmap (correlation)
 
 3. Wine Quality Categorization
- -Poor = 4
- -Normal = 5
- -Good = 6
- -Excellent = 7
+ - Poor = 4
+ - Normal = 5
+ - Good = 6
+ - Excellent = 7
 
 ## Technologies Used
  1.Python 3.x
